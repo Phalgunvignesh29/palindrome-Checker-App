@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class UseCasePalindromeCheckerApp {
+public class UsePalindromeCheckerApp {
     public static void main(String[] args) {
 
         Scanner S = new Scanner(System.in);
